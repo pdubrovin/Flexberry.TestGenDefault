@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-test-gen-default-language-e",
+  "editForm": "new-platform-test-gen-default-language-e",
+  "external": false,
+  "caption": "Language",
+  "name": "NewPlatformTestGenDefaultLanguageL",
+  "className": "LanguageL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-test-gen-default-language",
+      "modelProjection": "LanguageL"
+    }
+  ]
+}

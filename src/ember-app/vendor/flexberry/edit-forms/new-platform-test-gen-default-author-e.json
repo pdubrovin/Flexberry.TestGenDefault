@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Author",
+  "name": "NewPlatformTestGenDefaultAuthorE",
+  "className": "AuthorE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-test-gen-default-author",
+      "modelProjection": "AuthorE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-test-gen-default-author-e",
+  "editForm": "new-platform-test-gen-default-author-e",
+  "external": false,
+  "caption": "Author",
+  "name": "NewPlatformTestGenDefaultAuthorL",
+  "className": "AuthorL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-test-gen-default-author",
+      "modelProjection": "AuthorL"
+    }
+  ]
+}

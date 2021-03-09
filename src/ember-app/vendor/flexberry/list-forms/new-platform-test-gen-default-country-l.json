@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-test-gen-default-country-e",
+  "editForm": "new-platform-test-gen-default-country-e",
+  "external": false,
+  "caption": "Country",
+  "name": "NewPlatformTestGenDefaultCountryL",
+  "className": "CountryL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-test-gen-default-country",
+      "modelProjection": "CountryL"
+    }
+  ]
+}

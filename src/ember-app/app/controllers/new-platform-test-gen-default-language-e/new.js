@@ -1,0 +1,4 @@
+import NewPlatformTestGenDefaultLanguageEController from '../new-platform-test-gen-default-language-e';
+
+var NewPlatformTestGenDefaultLanguageENewController = NewPlatformTestGenDefaultLanguageEController;
+export default NewPlatformTestGenDefaultLanguageENewController;

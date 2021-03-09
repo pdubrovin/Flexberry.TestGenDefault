@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Country",
+  "name": "NewPlatformTestGenDefaultCountryE",
+  "className": "CountryE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-test-gen-default-country",
+      "modelProjection": "CountryE"
+    }
+  ]
+}
